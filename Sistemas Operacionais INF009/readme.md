@@ -1,1 +1,1 @@
-Livros para auxiliar na matéria de Sistemas Operacionais, ministrada por Flávia
+Livros para auxiliar na matéria de Sistemas Operacionais
